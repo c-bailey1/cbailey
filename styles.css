@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  color: #BF40BF;
+  color: #90D5FF;
 }
 
 p {
@@ -13,5 +13,5 @@ p {
 }
 
 strong {
-  text-decoration: underline wavy;
+  text-decoration: underline wavy #90D5FF;
 }
