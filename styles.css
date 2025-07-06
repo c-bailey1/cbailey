@@ -1,10 +1,16 @@
 body {
   background-color: #FF7E70;
   font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #110840;
+}
+
+p {
   font-size: 16px;
-  color: #000000;
 }
 
 strong {
-  text-decoration: underline;
+  text-decoration: underline wavy;
 }
