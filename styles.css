@@ -18,7 +18,7 @@ strong {
 }
 
 .body-div {
-  margin: 40px auto;
+  margin: 40px;
   padding: 20px;
   border: 1px solid #ccc;
 }
@@ -26,4 +26,19 @@ strong {
 .title {
   text-align: center;
   margin: 20px;
+}
+
+.nav-class {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.float-img {
+  float: right;
+  margin: 0 0 10px 20px;
+  border-radius: 8px;
+}
+
+.ingredients-class, .instructions-class, .storage-class {
+  margin-bottom: 40px;
 }
