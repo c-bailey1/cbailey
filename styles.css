@@ -16,3 +16,14 @@ strong {
   text-decoration: underline wavy #069494;
   color: #BD685E;
 }
+
+.body-div {
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.title {
+  text-align: center;
+  margin: 20px;
+}
