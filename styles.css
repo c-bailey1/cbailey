@@ -40,7 +40,3 @@ strong {
 .ingredients-class, .instructions-class, .storage-class {
   margin-bottom: 40px;
 }
-
-.float-image {
-  float: right;
-}
