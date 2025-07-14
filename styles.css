@@ -33,10 +33,14 @@ strong {
   margin-bottom: 20px;
 }
 
-.float-img {
+.img-class {
   margin: 0 0 10px 20px;
 }
 
 .ingredients-class, .instructions-class, .storage-class {
   margin-bottom: 40px;
+}
+
+.float-image {
+  float: right;
 }
