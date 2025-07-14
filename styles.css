@@ -34,8 +34,7 @@ strong {
 }
 
 .float-img {
-  float: right;
-
+  margin: 0 0 10px 20px;
 }
 
 .ingredients-class, .instructions-class, .storage-class {
