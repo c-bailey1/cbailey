@@ -33,7 +33,7 @@ strong {
   margin-bottom: 20px;
 }
 
-.intro {
+.list-class {
   display:grid;
   grid-template-columns: 1fr;
   grid-gap: .5rem;
