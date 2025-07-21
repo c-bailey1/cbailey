@@ -33,6 +33,12 @@ strong {
   margin-bottom: 20px;
 }
 
+.intro {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: .5rem;
+}
+
 .img-class {
   margin: 0 0 10px 20px;
 }
