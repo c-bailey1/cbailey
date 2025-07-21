@@ -47,6 +47,7 @@ strong {
 
 .img-class {
   margin: 0 0 10px 20px;
+  border-radius: 50%;
 }
 
 .ingredients-class, .instructions-class, .storage-class {
