@@ -35,8 +35,8 @@ strong {
 
 .list-class {
   display:grid;
-  grid-template-columns: 1fr;
-  grid-gap: .5rem;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
 }
 
 .img-class {
