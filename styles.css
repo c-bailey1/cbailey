@@ -42,7 +42,7 @@ strong {
 .instruction-list-class {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 1rem;
+  grid-gap: .5rem 5rem;
 }
 
 .img-class {
