@@ -1,8 +1,7 @@
 @media only screen and (max-width: 600px) {
-  body {
-    font-size: 16px;
-    padding: 10px;
-    line-height: 1.5;
+strong {
+  text-decoration: underline wavy #069494;
+  color: #BD685E;
   }
 }
 
@@ -18,11 +17,6 @@ a {
 
 p {
   font-size: 16px;
-}
-
-strong {
-  text-decoration: underline wavy #069494;
-  color: #BD685E;
 }
 
 .body-div {
