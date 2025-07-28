@@ -7,6 +7,10 @@ strong {
   margin: 0 0 10px 20px;
   border-radius: 50%;
   }
+  
+  .instruction-list-class {
+  grid-template-columns: 1fr 1fr !important;
+  }
 }
 
 body {
