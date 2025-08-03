@@ -77,7 +77,7 @@ blockquote {
 
 .paragraph-image {
   width: 50%;
-  padding-left: 15px;
+  padding: 0 0 0 1em;
 }
 
 .next-block {
