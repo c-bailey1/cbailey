@@ -78,8 +78,7 @@ blockquote {
 }
 
 .current {
-  color: #0a1933;
-  font-weight: bold;
+  color: #3a3a3a;
   text-decoration: underline;
   pointer-events: none;
 }
