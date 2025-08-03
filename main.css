@@ -114,6 +114,9 @@ blockquote {
   border-radius: 6px;
 }
 
+.top-block a:hover {
+  text-decoration: underline;
+}
 
 #page-title {
   font-size: 3rem;
