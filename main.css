@@ -13,3 +13,11 @@ body {
 .header {
   text-align: center;
 }
+
+#page-title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-top: 1em;
+}
