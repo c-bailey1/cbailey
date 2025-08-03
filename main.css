@@ -49,6 +49,15 @@ p {
   margin-bottom: 1.5em;
 }
 
+blockquote {
+  font-style: italic;
+  color: #555;
+  border-left: 4px solid #d2b48c;
+  padding: 0.5em 1em;
+  margin: 2em 1em;
+  background-color: #f9f4ee;
+}
+
 .header-image {
   width: 50%;
   height: auto;
