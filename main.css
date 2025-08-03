@@ -68,13 +68,12 @@ p {
   margin: 0 auto;
 }
 
-#page-title,
-.div-image {
-  max-width: 700px;
-  margin: 0 auto;
-  display: block;
-  padding: 0 1rem;
+#page-title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-top: 1em;
 }
-
 
 
