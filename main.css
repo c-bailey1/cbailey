@@ -75,6 +75,22 @@ blockquote {
   padding: 0 1rem;
 }
 
+.next-block {
+  max-width: 700px;
+  margin: 2em auto;
+  text-align: center;
+}
+
+.next-block a {
+  display: inline-block;
+  background-color: #e4cfa0;
+  color: #222;
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
 #page-title {
   font-size: 3rem;
   font-weight: bold;
