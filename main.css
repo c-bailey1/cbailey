@@ -92,6 +92,10 @@ blockquote {
   font-weight: bold;
 }
 
+.next-block a:hover {
+  background-color: #1b2a4d;
+}
+
 .top-block {
   max-width: 700px;
   margin: 2em auto;
