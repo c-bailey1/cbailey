@@ -3,25 +3,6 @@ body {
   color: #222;               
 }
 
-#header-image {
-  width: 50%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.header {
-  text-align: center;
-}
-
-#page-title {
-  font-size: 3rem;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
-  margin-top: 1em;
-}
-
 nav {
   display: flex;
   flex-wrap: wrap;
@@ -48,3 +29,24 @@ nav a:hover {
   background-color: #d2b48c; 
   color: #000;
 }
+
+.header {
+  text-align: center;
+}
+
+#header-image {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#page-title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-top: 1em;
+}
+
+
