@@ -1,0 +1,11 @@
+#header-image {
+  width: 80%;
+  height: auto;
+  max-height: 30vh;
+  display: block;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}
