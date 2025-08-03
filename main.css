@@ -87,7 +87,7 @@ blockquote {
   color: #ffffff;
   padding: 1.25rem 2.5rem;
   font-size: 1.5rem;
-  text-decoration: none;
+  text-decoration: underline;
   border-radius: 8px;
   font-weight: bold;
 }
