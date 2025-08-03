@@ -34,6 +34,24 @@ nav a:hover {
   text-align: center;
 }
 
+h2 {
+  font-size: 2rem;          
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1.125rem;      
+  line-height: 1.6;
+  color: #444;
+  max-width: 700px;
+  margin: 0 auto 1.5em auto;  
+  padding: 0 1rem;
+}
+
 #header-image {
   width: 50%;
   height: auto;
