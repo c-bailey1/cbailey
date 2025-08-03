@@ -30,6 +30,26 @@ nav a:hover {
   color: #000;
 }
 
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  text-align: left;
+  padding: 0 1rem;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-family: 'Georgia', serif; /* consistent readable font */
+}
+
+p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: #444;
+  padding: 0 1rem;
+  margin-bottom: 1.5em;
+  font-family: 'Georgia', serif;
+}
+
 .header {
   text-align: center;
 }
@@ -47,12 +67,13 @@ nav a:hover {
   margin: 0 auto;
 }
 
-#page-title {
-  font-size: 3rem;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
-  margin-top: 1em;
+#page-title,
+.div-image {
+  max-width: 700px;
+  margin: 0 auto;
+  display: block;
+  padding: 0 1rem;
 }
+
 
 
