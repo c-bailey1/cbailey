@@ -87,6 +87,14 @@ blockquote {
   background-color: #f9f4ee;
 }
 
+.page-title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-top: 1em;
+}
+
 .header-image {
   width: 50%;
   height: auto;
@@ -178,14 +186,6 @@ blockquote {
 
 .top-block a:hover {
   text-decoration: underline;
-}
-
-#page-title {
-  font-size: 3rem;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
-  margin-top: 1em;
 }
 
 
