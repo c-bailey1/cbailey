@@ -55,7 +55,7 @@ p {
 .list-class th,
 .list-class td {
   padding: 12px;
-  border: 1px solid #000;
+  border: 2px solid #cccccc;
   text-align: left;
 }
 
