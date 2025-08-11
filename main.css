@@ -144,6 +144,8 @@ blockquote {
 .p-image-50 {
   width: 50%;
   padding: 0 0 0 2em;
+  display: block;
+  margin: 0 auto;
 }
 
 .video-block {
